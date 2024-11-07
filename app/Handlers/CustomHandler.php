@@ -6,7 +6,7 @@ use Casperlaitw\LaravelFbMessenger\Contracts\BaseHandler;
 use Casperlaitw\LaravelFbMessenger\Messages\ReceiveMessage;
 use Casperlaitw\LaravelFbMessenger\Messages\ButtonTemplate;
 
-class ButtonTemplateHandler extends BaseHandler
+class CustomHandler extends BaseHandler
 {
     public function handle(ReceiveMessage $message)
     {
