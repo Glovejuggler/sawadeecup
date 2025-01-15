@@ -1,0 +1,512 @@
+{
+    "products":
+      {
+        "categories": [
+          {
+            "name": "Sandwiches",
+            "items": [
+              {
+                "name": "Classic Burger",
+                "price": 115
+              },
+              {
+                "name": "Chicken Burger",
+                "price": 85
+              },
+              {
+                "name": "Breakfast Burger",
+                "price": "80"
+              },
+              {
+                "name": "Breakfast Panwich",
+                "price": 90
+              },
+              {
+                "name": "Hotdog",
+                "price": 70
+              },
+              {
+                "name": "Chili dog",
+                "price": 90
+              }
+            ]
+          },
+          {
+            "name": "Rice Meal",
+            "items": [
+              {
+                "name": "Beef Tapa",
+                "price": 120
+              },
+              {
+                "name": "Spam",
+                "price": 125
+              },
+              {
+                "name": "Corned Beef",
+                "price": 120
+              },
+              {
+                "name": "Longganisa",
+                "price": 115
+              },
+              {
+                "name": "Shanghai",
+                "price": 110
+              },
+              {
+                "name": "Hotdog",
+                "price": 110
+              },
+              {
+                "name": "1pc Chicken Fillet",
+                "price": 115
+              },
+              {
+                "name": "2pc Chicken Fillet",
+                "price": 135
+              },
+              {
+                "name": "Chicken Nuggets",
+                "price": 110
+              }
+            ],
+            "extra": {
+              "name": "Add-ons",
+              "addons": [
+                {
+                  "name": "Egg",
+                  "price": 15
+                },
+                {
+                  "name": "Rice",
+                  "price": 15
+                },
+                {
+                  "name": "Hasbrown",
+                  "price": 35
+                }
+              ]
+            }
+          },
+          {
+            "name": "Rice Box!",
+            "items": [
+              {
+                "name": "Shanghai",
+                "price": 69
+              },
+              {
+                "name": "Longganisa",
+                "price": 69
+              },
+              {
+                "name": "Hotdog",
+                "price": 69
+              },
+              {
+                "name": "Burger Patty",
+                "price": 69
+              },
+              {
+                "name": "Spam",
+                "price": 75
+              },
+              {
+                "name": "Nuggets",
+                "price": 75
+              }
+            ],
+            "extra": {
+              "name": "Add-ons",
+              "addons": [
+                {
+                  "name": "Egg",
+                  "price": 15
+                },
+                {
+                  "name": "Rice",
+                  "price": 15
+                }
+              ]
+            }
+          },
+          {
+            "name": "À la carte",
+            "items": [
+              {
+                "name": "Hashbrown",
+                "price": 40
+              },
+              {
+                "name": "Chicken Nuggets",
+                "price": 60
+              },
+              {
+                "name": "2pcs. Pancake",
+                "price": 65
+              }
+            ]
+          },
+          {
+            "name": "Pasta",
+            "items": [
+              {
+                "name": "Spaghetti",
+                "price": 110
+              },
+              {
+                "name": "Spaghetti with Chicken",
+                "price": 145
+              },
+              {
+                "name": "Pinoy Carbonara",
+                "price": 110
+              },
+              {
+                "name": "Pinoy Carbonara with Chicken",
+                "price": 145
+              }
+            ]
+          },
+          {
+            "name": "Fries and Nachos",
+            "items": [
+              {
+                "name": "Regular Fries",
+                "price": 75
+              },
+              {
+                "name": "Cheese Fries",
+                "price": 85
+              },
+              {
+                "name": "Barbecue Fries",
+                "price": 85
+              },
+              {
+                "name": "Sour Cream Fries",
+                "price": 85
+              },
+              {
+                "name": "Cheesy Bacon Fries",
+                "price": 115
+              },
+              {
+                "name": "Nacho Fries",
+                "price": 115
+              },
+              {
+                "name": "Chili Fries",
+                "price": 120
+              },
+              {
+                "name": "Nacho Supreme",
+                "price": 135
+              }
+            ]
+          },
+          {
+            "name": "Wraps",
+            "items": [
+              {
+                "name": "Chili Chicken",
+                "price": 115
+              },
+              {
+                "name": "Chicken Salad",
+                "price": 115
+              },
+              {
+                "name": "Beef Tapa",
+                "price": 115
+              }
+            ]
+          },
+          {
+            "name": "Milk Drinks (Hot and Iced)",
+            "items": [
+              {
+                "name": "Chocolate",
+                "price": 90
+              },
+              {
+                "name": "Chocolate with Mallows (Hot only)",
+                "price": 95
+              },
+              {
+                "name": "Matcha",
+                "price": 90
+              },
+              {
+                "name": "Matcha Berry",
+                "price": 90
+              },
+              {
+                "name": "Strawberry",
+                "price": 95
+              },
+              {
+                "name": "Chai",
+                "price": 95
+              },
+              {
+                "name": "Just Milk",
+                "price": 80
+              }
+            ]
+          },
+          {
+            "name": "Tea",
+            "items": [
+              {
+                "name": "Green Chai",
+                "price": 40
+              },
+              {
+                "name": "Regular Green Tea",
+                "price": 30
+              }
+            ]
+          },
+          {
+            "name": "Coffee (Hot and Iced)",
+            "items": [
+              {
+                "name": "Black",
+                "price": 70
+              },
+              {
+                "name": "Black - Vanilla",
+                "price": 75
+              },
+              {
+                "name": "Black - Cinnamon",
+                "price": 75
+              },
+              {
+                "name": "Black - Hazelnut",
+                "price": 75
+              },
+              {
+                "name": "Café Latte",
+                "price": 90
+              },
+              {
+                "name": "French Vanilla Latte",
+                "price": 99
+              },
+              {
+                "name": "Hazelnut Latte",
+                "price": 99
+              },
+              {
+                "name": "Mocha",
+                "price": 99
+              },
+              {
+                "name": "Berry Mocha",
+                "price": 99
+              },
+              {
+                "name": "Caramel Latte",
+                "price": 99
+              },
+              {
+                "name": "Matcha Café Latte",
+                "price": 99
+              },
+              {
+                "name": "Pumpkin Spice Latte",
+                "price": 99
+              },
+              {
+                "name": "Orange Coffee (Iced only)",
+                "price": 85
+              },
+              {
+                "name": "Iced Coffee Float",
+                "price": 99
+              }
+            ]
+          },
+          {
+            "name": "Ice Cream",
+            "items": [
+              {
+                "name": "Sugar Cone or Cup",
+                "price": 35
+              }
+            ],
+            "extra": {
+              "name": "Add-ons",
+              "addons": [
+                {
+                  "name": "Chocolate Sprinkles",
+                  "price": 0
+                },
+                {
+                  "name": "Rainbow Sprinkles",
+                  "price": 0
+                },
+                {
+                  "name": "Mallows",
+                  "price": 0
+                },
+                {
+                  "name": "Chocolate Shell",
+                  "price": 5
+                },
+                {
+                  "name": "Chocolate Sauce",
+                  "price": 5
+                },
+                {
+                  "name": "Caramel Sauce",
+                  "price": 5
+                },
+                {
+                  "name": "Cashew Nuts",
+                  "price": 5
+                },
+                {
+                  "name": "Cookies",
+                  "price": 5
+                },
+                {
+                  "name": "Cornflakes",
+                  "price": 5
+                },
+                {
+                  "name": "Strawberry Puree",
+                  "price": 8
+                }
+              ]
+            }
+          },
+          {
+            "name": "Shakes",
+            "items": [
+              {
+                "name": "Vanilla (Cherry On Top)",
+                "price": 110
+              },
+              {
+                "name": "Chocolate",
+                "price": 110
+              },
+              {
+                "name": "Cookies and Cream",
+                "price": 110
+              },
+              {
+                "name": "Strawberry",
+                "price": 115
+              },
+              {
+                "name": "Caramel Macchiato",
+                "price": 115
+              },
+              {
+                "name": "Mocha",
+                "price": 115
+              },
+              {
+                "name": "Matcha",
+                "price": 115
+              }
+            ]
+          },
+          {
+            "name": "Sodas and Juices",
+            "items": [
+              {
+                "name": "Coca-Cola",
+                "price": 35
+              },
+              {
+                "name": "Coke Float",
+                "price": 80
+              },
+              {
+                "name": "Deep Azure",
+                "price": 90
+              },
+              {
+                "name": "Desert Sunset",
+                "price": 90
+              },
+              {
+                "name": "Copa Verde",
+                "price": 90
+              },
+              {
+                "name": "Butter Beer",
+                "price": 115
+              },
+              {
+                "name": "Pink Shandy",
+                "price": 90
+              },
+              {
+                "name": "Cherry Bomb",
+                "price": 90
+              },
+              {
+                "name": "Magic Shop!",
+                "price": 90
+              },
+              {
+                "name": "Desperado",
+                "price": 90
+              },
+              {
+                "name": "Antarctic Blue",
+                "price": 90
+              },
+              {
+                "name": "Matcha Romano",
+                "price": 80
+              },
+              {
+                "name": "Blue Lemonade Soda",
+                "price": 60
+              },
+              {
+                "name": "Blue Lemonade Juice",
+                "price": 45
+              },
+              {
+                "name": "Orange Soda",
+                "price": 60
+              },
+              {
+                "name": "Orange Juice",
+                "price": 45
+              },
+              {
+                "name": "Cucumber Lemonade Soda",
+                "price": 60
+              },
+              {
+                "name": "Cucumber Lemonade Juice",
+                "price": 45
+              },
+              {
+                "name": "Iced Tea Soda",
+                "price": 60
+              },
+              {
+                "name": "Iced Tea Juice",
+                "price": 45
+              },
+              {
+                "name": "Gulaman Palamig",
+                "price": 45
+              }
+            ]
+          }
+        ]
+      }
+    
+  }

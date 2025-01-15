@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "Harlekin";
+	src: url(../fonts/harlekin.ttf);
+}
+
+.harlekin {
+    font-family: "Harlekin";
+}
