@@ -71,6 +71,8 @@ class TransactionController extends Controller
                     ]);
                 }
             }
+
+            $order->delete();
             
             // OrderPlaced::dispatch($order->id);
 
